@@ -9,7 +9,7 @@ def summon_captain_planet(array)
   array.each do |hero|
     new_array << hero.capitalize
 end
-new_array.push("!")
+
 end
 
 def long_planeteer_calls# code an argument here
