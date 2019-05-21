@@ -5,7 +5,7 @@ end
 end
 
 def summon_captain_planet(array)
-  array.map {|hero| hero.
+  array.map do |hero|
 end
 
 def long_planeteer_calls# code an argument here
